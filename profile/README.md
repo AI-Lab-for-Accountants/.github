@@ -27,3 +27,16 @@ Repo: https://github.com/KaneTaxes/reasonablecomp-studio
 Reasonable compensation is a facts-and-circumstances determination. This tool
 supports documentation and judgment. It does not replace the practitioner's review
 or guarantee an IRS outcome.
+
+### The Client Analyzer
+Built by Lab member [rebeccadriscoll](https://github.com/rebeccadriscoll).
+
+A portfolio review tool for firm owners. You enter your clients, score each on
+five factors, set your keep-or-release decisions, and stress-test what would
+actually happen to the firm if the clients you are most afraid to lose walked.
+It turns a gut-level fear into numbers you can look at.
+
+Repo: https://github.com/rebeccadriscoll/Client-analyzer-reframe
+
+This tool supports judgment and planning. It does not provide tax or business
+advice and does not replace the practitioner's own review.
