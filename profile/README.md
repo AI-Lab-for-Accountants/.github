@@ -40,3 +40,19 @@ Repo: https://github.com/rebeccadriscoll/Client-analyzer-reframe
 
 This tool supports judgment and planning. It does not provide tax or business
 advice and does not replace the practitioner's own review.
+
+### Obsidian AI Starter Vault
+Built by Lab member [billkinneycpa](https://github.com/billkinneycpa).
+
+A minimal starter vault for running an AI assistant on plain markdown files, from
+Bill's Lab demo. It ships the folder structure for an AI-assisted practice
+notebook — an inbox, notes, projects, and plain-English skill files — plus the
+two files that make an assistant useful: standing instructions (`CLAUDE.md`) and
+your own briefing (`me.md`). Everything stays local as text files on your
+machine; stock Obsidian, no plugins, ten-minute setup.
+
+Repo: https://github.com/billkinneycpa/obsidian-ai-starter-vault
+
+The vault is structure, not content — no client data or tax logic ships in it,
+and its rules keep the practitioner in the approval loop. The licensed
+practitioner always reviews, decides, and signs.
