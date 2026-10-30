@@ -8,13 +8,13 @@ Website: https://ailabforaccountants.com
 
 ## Member builds
 
-Tools and projects built by Lab members and shared with the community. The Lab
+Tools and projects built by ALFA members and shared with the community. ALFA
 points to them so others can learn and adapt. They are shared by the members who
 made them, used under each project's own license and terms, and are not endorsed
 as tax advice. The licensed practitioner always reviews, decides, and signs.
 
 ### ReasonableComp Studio
-Built by Lab member [KaneTaxes](https://github.com/KaneTaxes).
+Built by ALFA member [KaneTaxes](https://github.com/KaneTaxes).
 
 An offline, white-label S-corporation reasonable compensation calculator and
 audit-workpaper generator. It documents shareholder-employee reasonable comp using
@@ -29,7 +29,7 @@ supports documentation and judgment. It does not replace the practitioner's revi
 or guarantee an IRS outcome.
 
 ### The Client Analyzer
-Built by Lab member [rebeccadriscoll](https://github.com/rebeccadriscoll).
+Built by ALFA member [rebeccadriscoll](https://github.com/rebeccadriscoll).
 
 A portfolio review tool for firm owners. You enter your clients, score each on
 five factors, set your keep-or-release decisions, and stress-test what would
@@ -42,7 +42,7 @@ This tool supports judgment and planning. It does not provide tax or business
 advice and does not replace the practitioner's own review.
 
 ### Obsidian AI Starter Vault
-Built by Lab member [billkinneycpa](https://github.com/billkinneycpa).
+Built by ALFA member [billkinneycpa](https://github.com/billkinneycpa).
 
 A minimal starter vault for running an AI assistant on plain markdown files, from
 Bill's Lab demo. It ships the folder structure for an AI-assisted practice
